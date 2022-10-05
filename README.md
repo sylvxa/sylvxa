@@ -1,16 +1,20 @@
-### Hi there 👋
+## hey there, i'm sylvia!
 
-<!--
-**sylvxa/sylvxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+here is a bit about me:
 
-Here are some ideas to get you started:
+🏳️‍⚧️ - trans woman, [she/her](https://en.pronouns.page/@sylvxa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🕛 - my time zone is CST
+
+🇺🇸 - i (unfortunately) live in the united states
+
+🐱 - i own two cats (and one dog)
+
+🤓 - self-taught programmer (because ofc i did)
+
+### stats:
+- know 10+ programming languages
+- have 188 (unfinished) projects
+- using Arch Linux
+
+thanks for taking a look at my profile, don't mind the mess (-y code)
