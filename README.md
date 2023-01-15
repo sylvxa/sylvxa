@@ -4,7 +4,7 @@ here is a bit about me:
 
 🏳️‍⚧️ gender - trans woman / [she/her](https://en.pronouns.page/@sylvxa)
 
-🕛 timezone - America/Chicago (GMT-6:00)
+🕛 timezone - America/Chicago (UTC-6:00)
 
 🇺🇸 region - united states
 
