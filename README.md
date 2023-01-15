@@ -2,19 +2,20 @@
 
 here is a bit about me:
 
-🏳️‍⚧️ - trans woman, [she/her](https://en.pronouns.page/@sylvxa)
+🏳️‍⚧️ gender - trans woman / [she/her](https://en.pronouns.page/@sylvxa)
 
-🕛 - my time zone is CST
+🕛 timezone - America/Chicago (GMT-6:00)
 
-🇺🇸 - i (unfortunately) live in the united states
+🇺🇸 region - united states
 
-🐱 - i own two cats (and one dog)
+🦈 blåhajar - (1) blåhaj(ar)
 
-🤓 - self-taught programmer (because ofc i did)
+### setup:
 
-### stats:
-- know 10+ programming languages
-- have 188 (unfinished) projects
-- using Arch Linux
+🖥️ os - arch linux / zen kernel
+
+🖵 wm/de - i3
+
+🖌️ theme - catppuccin
 
 thanks for taking a look at my profile, don't mind the mess (-y code)
