@@ -6,4 +6,4 @@ here is a bit about me:
 
 🏳️‍⚧️ gender - trans woman / [she/her](https://en.pronouns.page/@sylvxa)
 
-🦈 blåhajar - (1) blåhaj(ar)
+🦈 blåhajar - 2 blåhajar
